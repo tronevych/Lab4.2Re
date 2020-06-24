@@ -1,0 +1,45 @@
+--------------Start Searching--------------
+Total duration: 4 ms
+2020-03-29  start searching - 2020-06-24T15:59:27.101006900
+2020-02-15  start searching - 2020-06-24T15:59:27.101006900
+2019-11-23  start searching - 2020-06-24T15:59:27.099008400
+2019-12-01  start searching - 2020-06-24T15:59:27.099008400
+2019-11-23  start searching - 2020-06-24T15:59:27.144981600
+2020-01-09  start searching - 2020-06-24T15:59:27.101006900
+--------------------ERRORS--------------------
+Have 2 ERROR lines. on 2019-12-01
+time for which it is executed: 5107
+--------------------ERRORS--------------------
+Have 0 ERROR lines. on 2019-11-23
+time for which it is executed: 5315
+--------------------ERRORS--------------------
+Have 0 ERROR lines. on 2020-03-29
+time for which it is executed: 5479
+--------------------ERRORS--------------------
+Have 1 ERROR lines. on 2020-01-09
+time for which it is executed: 6071
+--------------------ERRORS--------------------
+Have 1 ERROR lines. on 2020-02-15
+time for which it is executed: 6762
+--------------------ERRORS--------------------
+Have 0 ERROR lines. on 2019-11-23
+time for which it is executed: 6864
+2019-12-01  start searching - 2020-06-24T15:59:34.010063100
+--------------------ERRORS--------------------
+Have 2 ERROR lines. on 2019-12-01
+time for which it is executed: 1268
+2020-01-09  start searching - 2020-06-24T15:59:35.279441800
+--------------------ERRORS--------------------
+Have 1 ERROR lines. on 2020-01-09
+time for which it is executed: 1182
+2020-02-15  start searching - 2020-06-24T15:59:36.462725100
+--------------------ERRORS--------------------
+Have 1 ERROR lines. on 2020-02-15
+time for which it is executed: 1193
+2020-03-29  start searching - 2020-06-24T15:59:37.657771200
+--------------------ERRORS--------------------
+Have 0 ERROR lines. on 2020-03-29
+time for which it is executed: 1163
+Total duration: 11677 ms
+
+ Multi-Threading have best time  than Consequent
